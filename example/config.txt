@@ -1,0 +1,2 @@
+Prefix plugins/AddSampleAnnotation/example/
+Plugin AddSampleAnnotation inputfile parameters.annotate.txt outputfile annotate.rds
